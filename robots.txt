@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://1099hero.app/sitemap.xml
