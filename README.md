@@ -25,8 +25,8 @@ works both at the GitHub Pages address and at the custom domain.
 
 - **App Store launch:** in `index.html`, find the `AT LAUNCH` comment and swap the
   "Coming soon" text for Apple's official badge and the App Store link.
-- **Screenshots:** put PNGs in `assets/img/screenshots/` and follow the
-  `SCREENSHOTS` comment in `index.html`.
+- **Screenshots:** web-sized JPGs (600 x 1300) live in `assets/img/screenshots/`.
+  Replace a file to swap one; see the `SCREENSHOTS` comment in `index.html`.
 - **Privacy policy:** the text is a word-for-word copy of
   https://bobbyjones126.github.io/contractorhero-legal/privacy-policy.html.
   If you change one, change the other the same way.
